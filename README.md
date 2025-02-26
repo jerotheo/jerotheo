@@ -1,6 +1,6 @@
 <!--## Hi there 👋 
 <!--<img src="giphy.gif" alt="description" height="400">-->
-<img src="luffy-gear-5-icegif-5.gif" alt="description" height="250">
+<img src="luffy-gear-5-icegif-5.gif" alt="description" height="180">
 
 
 **Jeri**, a backend web developer.
