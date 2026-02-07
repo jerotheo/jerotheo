@@ -3,7 +3,7 @@
 <img src="luffy-gear-5-icegif-5.gif" alt="description" height="180">
 
 
-**Jeri**, a backend web developer.
+**Jerico**, a backend web developer.
 - ⚡ &nbsp;Specializes in **PHP** and **JavaScript**
 - 🚀 &nbsp;Expertise in dynamic web applications
 - 📍 &nbsp;Based in Cebu, Philippines
@@ -60,12 +60,14 @@
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
 
-
-## 📧 Connect
 <!--
+## 📧 Connect
+
 [jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
--->
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/dI21hhr3ZaQC)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jericotilacas@gmail.com)&nbsp;
+
+-->
