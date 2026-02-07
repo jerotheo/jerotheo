@@ -5,7 +5,7 @@
 
 **Jeri**, a backend web developer.
 - ⚡ &nbsp;Specializes in **PHP** and **JavaScript**
-- 🚀 &nbsp;Expanding expertise in dynamic web apps
+- 🚀 &nbsp;Expertise in dynamic web applications
 - 📍 &nbsp;Based in Cebu, Philippines
 
 <!--
